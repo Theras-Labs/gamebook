@@ -1,0 +1,3 @@
+# Gamification on Airdrop
+
+We proudly serve as a gateway for the seamless integration of any crypto Tokens and NFT collections from diverse entities, games, projects, and across the blockchain networks we support into our gameplay. Aligned with our mission is to foster engagement and promote authenticity by enabling user-owned NFTs and tokens to participate in airdrops, all enhanced with gamification elements. This inclusive approach not only enhances user experiences but also provides a platform for showcasing and exposing a myriad of entities, games, and products within our gaming ecosystem.

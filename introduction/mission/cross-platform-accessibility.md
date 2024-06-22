@@ -1,0 +1,5 @@
+# Cross-Platform Accessibility
+
+STAR-EX is committed to engaging a wide audience by offering adaptable gaming experiences across a range of platforms. This flexibility is made possible by our use of a JavaScript Virtual Machine (VM), which effectively eliminates operating system compatibility issues. Our technology allows for the development of games using HTML, CSS, and React. These games can be accessed either as standard web browser games or as Progressive Web Apps (PWAs), providing versatility in how they are deployed and experienced.&#x20;
+
+While the JavaScript VM facilitates the transition of our games across different platforms, including mobile apps, desktop games, and consoles, it's important to note that performance levels can vary across these platforms. However, the adoption of WebGPU technology marks a significant breakthrough. With WebGPU, the performance of our games, when run on the JavaScript VM, aligns more closely with that of games built on traditional game engines, bridging the gap and ensuring a high-quality gaming experience regardless of the platform.
