@@ -15,9 +15,9 @@ _This is special team to build a specific feature for Hackathon purpose and on-c
 * Siya: Community Manager
 * Theodore: Filmmaker
 * Farqun: Mod, Admin, Assistance Manager
-* Pobidowski : Game Dev Senior \<?>
-* Xar: Game Dev Jr
-* Anas: Game Dev Jr
+* Pobidowski : Game Dev Senior \<?>&#x20;
+* Xar: Game Dev Jr \<intern>
+* Anas: Game Dev Jr  \<intern>
 * Max: Lead Designer  \<?>
 * Herman: UIUX Designer
 * 0xZero: Solidity dev&#x20;
