@@ -1,35 +1,63 @@
 # Team Bios \[WIP]
 
-### Hackathon Team
+## Hackathon Team-------------------
 
-_This is special team to build a specific feature for Hackathon purpose and on-chain gaming structure, since other will just focus on production/mainnet task_
+_This is special team to integrate prototype feature in Hackathon and  other member will just focus on production/mainnet task_
 
 * Dale
-* Neil
+* Ezra
+* Niel
 
-### Core Team
+## Core Team-------------------
 
-* Dale: Team Lead \[Game Dev, Blockchain Dev, Fullstack Dev, Concept Director]
-* Neil: Social Media&#x20;
-* Mustofa: 3D Artist
-* Siya: Community Manager
-* Theodore: Filmmaker
-* Farqun: Mod, Admin, Assistance Manager
-* Pobidowski : Game Dev Senior \<?>&#x20;
+### Development
+
+* Dale: Team Lead \<Game Dev, Blockchain Dev, Fullstack Dev>
+* Ezra: Fullstack Dev
 * Xar: Game Dev Jr \<intern>
 * Anas: Game Dev Jr  \<intern>
-* Max: Lead Designer  \<?>
-* Herman: UIUX Designer
-* 0xZero: Solidity dev&#x20;
-* Comic Artist: Eduardo&#x20;
+* Codepert: Blockchain dev
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-12 at 9.23.07 AM.png" alt=""><figcaption></figcaption></figure>
+
+### **Operation**
+
+* Niel: Social Networking
+* Furqan: Admin, Assitance manager
+* Michael: Mod
+* Tenny: Event Manager, Mod
+* Siya: Content Manager
+* Umar: Content Artist, Mod
+* Ben: Mod
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-12 at 9.33.23 AM.png" alt=""><figcaption></figcaption></figure>
+
+### Creative&#x20;
+
+* Mustofa: 3D artist
+* UASDguy: 3D artist
+* Herman: UIUX&#x20;
+* Turk: Rive animator
+* Eduardo: Comic Artist
+* Max: Lead Designer \<?>
+* Dale: Concept Director
+
+### Founder Role:
+
+* Dale
+* Niel: Networking, PR
+
+
 
 ***
 
-### Theras Labs Team :
+## Theras Labs Team-------------------&#x20;
 
 * Esta: 3D Artist
-* Erdong: Game Dev&#x20;
-* Sanwal: UIUX Designer\
+* Erdong: Game Dev Senior \<hyape>
+* Pobidowski : Game Dev Senior \<starex>&#x20;
+* Sanwal: UIUX Designer
+* many more\
 
 
 
